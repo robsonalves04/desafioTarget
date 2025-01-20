@@ -1,4 +1,4 @@
-package com.example.desafiotarget.ui.theme
+package com.example.desafiotarget.theme
 
 import android.app.Activity
 import android.os.Build

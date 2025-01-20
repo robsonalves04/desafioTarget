@@ -1,4 +1,4 @@
-package com.example.desafiotarget.ui.theme
+package com.example.desafiotarget.theme
 
 import androidx.compose.ui.graphics.Color
 
