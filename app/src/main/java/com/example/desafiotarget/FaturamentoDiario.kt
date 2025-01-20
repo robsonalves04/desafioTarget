@@ -33,3 +33,4 @@ fun main() {
     println("Maior valor de faturamento: R$%.2f".format(maiorFaturamento))
     println("Número de dias com faturamento acima da média mensal: $diasAcimaDaMedia")
 }
+//arquivo json salvo na pasta raiz
