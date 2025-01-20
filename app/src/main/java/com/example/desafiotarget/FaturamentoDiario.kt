@@ -1,5 +1,3 @@
-package com.example.desafiotarget
-
 import kotlinx.serialization.*
 import kotlinx.serialization.json.*
 import java.io.File
